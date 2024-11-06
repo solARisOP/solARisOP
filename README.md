@@ -116,7 +116,7 @@ I am skilled in multiple programming languages, including:
 <p align="left">
   
    <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/seema-nitish-rao">
+  <a href="https://linkedin.com/in/seema-nitish-rao">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
