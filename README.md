@@ -14,7 +14,7 @@ I’m actively seeking roles in software development. Eager to contribute and gr
 ## Fullstack Development Expertise
 I have cultivated a good understanding of fullstack development, specializing in technologies and frameworks that are pivotal in creating scalable and efficient applications. My proficiency includes:
 
-- **Javascript & Node & Python**: Proficient in Javascript, with extensive experience in Node and Python, enabling me to build responsive and user-friendly apps.
+- **Javascript / Node / Python**: Proficient in Javascript, with extensive experience in Node and Python, enabling me to build responsive and user-friendly apps.
 - **MVC and MVT**: Strong grasp of the Model-View-controller (MVC) and Model-View-template (MVT) pattern, ensuring clean and maintainable code.
 - **AWS S3**: Skilled in integrating S3 storage pipelines for my websites for cloud storage.
 - **Design and Client logic**: Experienced in using React for creating intuitive and dynamic user interfaces.
