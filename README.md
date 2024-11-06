@@ -57,10 +57,10 @@ I am skilled in multiple programming languages, including:
 |--------|----|----|----|----|
 | 1 | Task Management come todo App | React, Node, MongoDB, Express, JWT and React Router | [Pro Manage](https://pro-manage-client-aitu.onrender.com/) | [Repo](https://github.com/solARisOP/Pro-Manage-client) |
 | 2 | Stories App | React, Node, MongoDB, Express, JWT and React Router | [Story](https://stories-91jl.onrender.com/) | [Repo](https://github.com/solARisOP/stories) |
-| 3 | Quiz App | React, Node, MongoDB, Express, JWT and React Router | [QUIZZIE](https://quizzie-client-s556.onrender.com/) | [Repo](https://github.com/solARisOP/Quizee-Server) |
+| 3 | Quiz App | React, Node, MongoDB, Express, JWT and React Router | [Quizzie](https://quizzie-client-s556.onrender.com/) | [Repo](https://github.com/solARisOP/Quizee-Server) |
 | 4 | Cricketer Image Classification | Tensorflow, Deep learning, BERT | .... | [Repo](https://github.com/solARisOP/Machine-Learning/tree/master/proj_final/image%20classification) |
 | 5 | Real state Price Prediction | Tensorflow, Deep learning, BERT | .... | [Repo](https://github.com/solARisOP/Machine-Learning/tree/master/proj_final/real%20estate%20price%20prediction) |
-| 6 | Movie Library | Node, MongoDB and Express (SSR) | [Pro Manage](https://fasal-movie-library-ic4c.onrender.com) | [Repo](https://github.com/solARisOP/Movie) |
+| 6 | Movie Library | Node, MongoDB and Express (SSR) | [Movie](https://fasal-movie-library-ic4c.onrender.com) | [Repo](https://github.com/solARisOP/Movie) |
 | 7 | Notes App| React and local Storage | [Notes App](https://notes-app-six-beryl.vercel.app/) | [Repo](https://github.com/solARisOP/Notes-App) |
 
 
@@ -116,7 +116,7 @@ I am skilled in multiple programming languages, including:
 <p align="left">
   
    <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/seema-nitish-rao" target="blank">
+  <a href="www.linkedin.com/in/seema-nitish-rao">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
