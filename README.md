@@ -126,5 +126,3 @@ I am skilled in multiple programming languages, including:
 
 ## 📈 CONTRIBUTION STATS 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=solARisOP&show_icons=true&locale=en&layout=compact" alt="solARisOP" />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solARisOP&" alt="solARisOP" /></p>
